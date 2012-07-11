@@ -1,0 +1,2 @@
+In KDE 4, move smallify.desktop to:
+~/.kde/share/kde4/services/
